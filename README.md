@@ -1,4 +1,4 @@
-# Flutter-Download
+# Flutter-Bash-Script
 
 Simple Flutter Download Bash Scripts
 
